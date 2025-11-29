@@ -15,7 +15,7 @@ Un juego roguelike de acción donde como Holy Karel debes sobrevivir el mayor ti
 - **ESC**: Salir del juego
 
 ## Cómo Jugar
-
+<p align="center"><img src="img/fight.png" width="900px" height="auto"></p>
 1. Usa WASD para moverte por el mapa
 2. Los enemigos aparecerán desde los bordes de la pantalla
 3. Acercate a los enemigos para para activar el autoataque
